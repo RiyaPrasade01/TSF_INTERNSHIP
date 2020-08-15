@@ -1,15 +1,20 @@
 # TSF_INTERNSHIP
 *Dependency-of-Score-on-Study-Hours
+
 A project to elaborate the deployment of Machine Learning models using Flask API. This project is a part of my internship program at The Sparks Foundation which predicts
 marks based on number of study hours.
 
 *Requirements
+
 Scikit-learn
+
 Pandas (Library for Machine Learning model)
+
 Flask (API)
 
 
 *Project Components
+
 This project has four major components :
 
 ->model.pkl - This contains Machine Learning model to predict score based on training data in 'student_scores.csv' file.
